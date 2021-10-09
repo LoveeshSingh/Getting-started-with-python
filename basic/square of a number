@@ -1,2 +1,4 @@
+#PROGRAM TO FIND SQUARE OF A NUMBER
+
 a=5
 print(a**2)
